@@ -1,0 +1,27 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	mqtt_connect
+#open	2025-04-21-13-32-44
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto_name	proto_version	client_id	connect_status	will_topic	will_payload
+#types	time	string	addr	port	addr	port	string	string	string	string	string	string
+1745231564.870685	Cej5401pKCLtM6icd5	192.168.3.44	61660	192.168.3.40	1883	-	-	-	Connection Accepted	-	-
+1745231722.665018	CrR30gHQwKQywacea	192.168.3.44	55754	192.168.3.40	1883	-	-	-	Connection Accepted	-	-
+1745231803.550637	CrDASD1d4xhzIPEFEj	192.168.3.44	53321	192.168.3.40	1883	-	-	-	Connection Accepted	-	-
+1745231976.473252	Cxk7Uj4xIVQIqT7bif	192.168.3.44	58725	192.168.3.40	1883	-	-	-	Connection Accepted	-	-
+1745232070.705976	C9UhI52UxqfEV2EwC1	192.168.3.44	63805	192.168.3.40	1883	-	-	-	Connection Accepted	-	-
+1745232371.962465	CqrhbD42exMrA2M3V1	192.168.3.44	56683	192.168.3.40	1883	-	-	-	Connection Accepted	-	-
+1745232394.887482	CVdU9UvPXKXhXeM9g	192.168.3.44	53828	192.168.3.40	1883	-	-	-	Connection Accepted	-	-
+1745232613.958698	CsXvmK3htwPlXCIOJ3	192.168.3.44	58046	192.168.3.40	1883	-	-	-	Connection Accepted	-	-
+1745232646.095741	CNj0Vx4ERjlbV7JlH3	192.168.3.44	50620	192.168.3.40	1883	-	-	-	Connection Accepted	-	-
+1745232693.763144	CjHKjo3sXMXspeBHU1	192.168.3.44	62165	192.168.3.40	1883	-	-	-	Connection Accepted	-	-
+1745232880.632196	C5lr4NMdB6a5KofVd	192.168.3.44	64460	192.168.3.40	1883	-	-	-	Connection Accepted	-	-
+1745232916.567067	CRqBJY1cRzCsDAsZ37	192.168.3.44	58610	192.168.3.40	1883	-	-	-	Connection Accepted	-	-
+1745233002.451719	CcDxnH1MFGRGLp7td	192.168.3.44	53857	192.168.3.40	1883	-	-	-	Connection Accepted	-	-
+1745233004.015893	CpngVi3jtGvgvQd7L3	192.168.3.44	55659	192.168.3.40	1883	-	-	-	Connection Accepted	-	-
+1745233005.243812	C9jAT34XVZfefb6V51	192.168.3.44	57455	192.168.3.40	1883	-	-	-	Connection Accepted	-	-
+1745233040.631573	C8ceMV3dJkdCisiOTe	192.168.3.44	53990	192.168.3.40	1883	-	-	-	Connection Accepted	-	-
+1745233110.740594	CwxdDv1SqV6K8GlS09	192.168.3.44	61482	192.168.3.40	1883	-	-	-	Connection Accepted	-	-
+1745233116.490383	C5vw7k20GLKIuNMrvk	192.168.3.44	53002	192.168.3.40	1883	-	-	-	Connection Accepted	-	-
+#close	2025-04-21-14-00-00

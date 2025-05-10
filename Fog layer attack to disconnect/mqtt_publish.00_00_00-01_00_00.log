@@ -1,0 +1,17 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	mqtt_publish
+#open	2025-04-21-00-04-14
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	from_client	retain	qos	status	topic	payload	payload_len
+#types	time	string	addr	port	addr	port	bool	bool	string	string	string	string	count
+1745183054.194757	CXbUWt4OXuh6Zs2S4b	192.168.3.55	45454	192.168.3.34	1883	T	F	at most once	ok	scada/windturbine	{"RotorSpeed":24.3,"GeneratorSpeed":2975.0,"GeneratorTemperature":15.2,"WindSpeed":991.2,"PowerOutpu	220
+1745183069.324074	CEq2a34ab3j1u5wzCb	192.168.3.55	55916	192.168.3.34	1883	T	F	at most once	ok	scada/windturbine	{"RotorSpeed":24.3,"GeneratorSpeed":2975.0,"GeneratorTemperature":15.2,"WindSpeed":991.2,"PowerOutpu	220
+1745183072.774603	CvAhrSO0Cl5ZlDxk	192.168.3.55	55918	192.168.3.34	1883	T	F	at most once	ok	scada/windturbine	{"RotorSpeed":24.3,"GeneratorSpeed":2975.0,"GeneratorTemperature":15.2,"WindSpeed":991.2,"PowerOutpu	220
+1745183140.839310	CcKMxy1rsnPWahVVWf	192.168.3.55	52984	192.168.3.34	1883	T	F	at most once	ok	scada/windturbine	{"RotorSpeed":24.3,"GeneratorSpeed":2975.0,"GeneratorTemperature":15.2,"WindSpeed":991.2,"PowerOutpu	220
+1745183149.989698	COKXCl2rE7EcFCWsO9	192.168.3.55	52140	192.168.3.34	1883	T	F	at most once	ok	scada/windturbine	{"RotorSpeed":24.3,"GeneratorSpeed":2975.0,"GeneratorTemperature":15.2,"WindSpeed":991.2,"PowerOutpu	220
+1745183155.738413	Cl66iW2V4zNtbJj0Od	192.168.3.55	52156	192.168.3.34	1883	T	F	at most once	ok	scada/windturbine	{"RotorSpeed":24.3,"GeneratorSpeed":2975.0,"GeneratorTemperature":15.2,"WindSpeed":991.2,"PowerOutpu	220
+1745183157.679316	ChPNvg1WvBlnFKr3S8	192.168.3.55	52160	192.168.3.34	1883	T	F	at most once	ok	scada/windturbine	{"RotorSpeed":24.3,"GeneratorSpeed":2975.0,"GeneratorTemperature":15.2,"WindSpeed":991.2,"PowerOutpu	220
+1745183184.393322	CWz4neIKlj3Y4wo04	192.168.3.55	39200	192.168.3.34	1883	T	F	at most once	ok	scada/windturbine	{"RotorSpeed":24.3,"GeneratorSpeed":2975.0,"GeneratorTemperature":15.2,"WindSpeed":991.2,"PowerOutpu	220
+#close	2025-04-21-01-00-00
